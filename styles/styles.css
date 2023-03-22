@@ -250,3 +250,9 @@ main .hero h1 {
 main .section.highlight {
   background-color: var(--highlight-background-color);
 }
+
+main .hero-container {
+    padding: 0;
+    display: flex;
+    align-content: center;
+}
