@@ -237,6 +237,15 @@ main .section {
   }
 }
 
+main .hero h1 {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: blue;
+    position: relative;
+    top: 300px;
+}
 /* section metadata */
 main .section.highlight {
   background-color: var(--highlight-background-color);
