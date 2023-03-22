@@ -13,12 +13,14 @@ main .hero {
   padding: 32px;
   min-height: 300px;
 }
-
 main .hero h1 {
-  max-width: 1200px;
-  margin-left: auto;
-  margin-right: auto;
-  color: white;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: blue;
+    position: relative;
+    top: 300px;
 }
 
 main .hero picture {
